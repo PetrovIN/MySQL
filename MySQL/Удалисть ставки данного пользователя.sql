@@ -1,0 +1,1 @@
+DELETE FROM mydb.bids as b WHERE b.users_user_id = 1;

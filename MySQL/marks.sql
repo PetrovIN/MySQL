@@ -1,0 +1,11 @@
+marks_id,subject,mark,student_student_id
+1,Java,5,1
+2,Python,2,2
+3,Java,5,2
+4,Python,5,1
+5,Javascript,2,3
+6,PHP,2,5
+7,PHP,3,3
+8,Javascript,5,5
+9,Javascript,4,2
+10,Java,3,5

@@ -1,0 +1,1 @@
+SELECT * FROM mydb.items WHERE description LIKE '%telephone%'

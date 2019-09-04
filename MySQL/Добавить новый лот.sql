@@ -1,0 +1,2 @@
+INSERT INTO mydb.items (item_id, title, description, start_price, bid_increment, start_date, stop_date, by_it_now, users_user_id)
+VALUES (5, 'keyboard', 'cool keyboard', 800, 200, '2015-05-08', '2020-05-08', null, 5)
